@@ -8,3 +8,5 @@ __README.md__
 #アプローチ
 [Java用のライブラリ](http://code.google.com/p/foursquare-api-java/)が用意されているみたいなので、これを使用してAndroidアプリで利用できるようにしていく。
 
+#進捗状況
+*5月10日：リポジトリ作成
