@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">fourSquareTest</string>
+    <string name="menu_settings">Settings</string>
+    <string name="label_now_listening">現在地取得中</string>
+    <string name="label_failed_to_get_instance">ロケーションマネージャの取得に失敗しました。</string>
+</resources>
