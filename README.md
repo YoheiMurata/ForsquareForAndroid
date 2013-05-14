@@ -4,7 +4,7 @@ __README.md__
 このリポジトリは、[Android](http://developer.android.com/index.html)のアプリで[FourSquare](http://foursquare.com)へ基本的な操作をできるようにしてみようという試みで作成したものである。
 今更ながらFourSquareのスペルが間違っていることに気がつくが、気にしない。
 
-[Twitter](http://twitter.com)の基本的な操作をするAndroidアプリを作ってみようというものは多いのに、FourSquareがないのはおかしいだろうというのもある。そんな気持ちから始めた。
+[Twitter](http://twitter.com)の基本的な操作をするAndroidアプリを作ってみようというものは多いのに、FourSquareがないのはおかしいだろうという、そんな気持ちから始めた。
 
 #FourSquareとは？
 SNSサービスの一つで、「今ここにいるよ」というのをほかのユーザーに公開したり、面白い場所などをほかのユーザーから教えてもらったりなど、「場所」に関して他のユーザーとのコミュニケーションをとるSNSサービスのようだ（私自身経験が浅いのでよくわからないｗ）
